@@ -43,6 +43,5 @@ $ npm run test:cov
 4. There is an endpoint to get all products from a category
 5. There is an endpoint to add bulk products to a category
 6. It's not possible to remove a category if it has products
-7. It's not possible to remove a product if it has orders
-8. Every product type store his own data structure
+7. Every product type store his own data structure
 
